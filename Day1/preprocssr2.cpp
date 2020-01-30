@@ -14,3 +14,13 @@ int main()
 
     cout << "Area of the rectangle = " << area << endl;
 }
+
+/**
+ * 2 File inclusion
+ * It is basically including the files or what we call it header files
+ * eg : <iostream> etc
+ * 
+ * For user defined fileswhich means if the program gets bigger
+ * it's a good practice to devide the whole program into smaller programs
+ * which can be declared with  #include"filename" 
+**/
