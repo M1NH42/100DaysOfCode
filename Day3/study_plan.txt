@@ -1,0 +1,7 @@
+# Day 3
+1. Have completed week 0 lectures of cs50 course which I'm taking to cover basics
+   of computer fundamentals to fill the gap which is necessary for interview pre-
+   paration.
+2. In the week 0 lecture they mostly talked about binary, algorithm and scratch ba-
+   sically is used to teach core concepts of computer science to begginers.
+3. And some c basics too.
