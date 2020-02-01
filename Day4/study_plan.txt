@@ -1,0 +1,5 @@
+# Day 4
+1. Read a competitive c++ menifesto : A style guide
+	- https://github.com/HosseinYousefi/CompetitiveCPPManifesto
+	- It will give a brief idea of coding style in cpp.
+2. 
