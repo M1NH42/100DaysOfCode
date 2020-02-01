@@ -2,4 +2,6 @@
 1. Read a competitive c++ menifesto : A style guide
 	- https://github.com/HosseinYousefi/CompetitiveCPPManifesto
 	- It will give a brief idea of coding style in cpp.
-2. 
+2. Studied about arrays, its pros and cons.
+3. Learnt how to declare array in different forms.
+4. And string characters.
