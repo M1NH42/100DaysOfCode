@@ -11,7 +11,9 @@ int main()
 {
     //initialize char array
     //2D array
-    char names[4][8] = {"sahil", "minhaz","nishant", "akhil"};
+    //char names[no. of elements][size ofelemnt]
+    //size of element in char =no. of letters + null terminating character ie 6 + 1 = 7
+    char names[4][7] = {"sahil", "minhaz","nishan", "akhil"};
 
     int namesLength = sizeof(names[2]) / sizeof(char);
     
