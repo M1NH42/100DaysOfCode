@@ -1,4 +1,4 @@
-/* Program to demonstrate the working of the string
+/*  Program to demonstrate the working of the string
     which is more efficient than the character array
     in terms of the memory as it has no fixed memory
     size
