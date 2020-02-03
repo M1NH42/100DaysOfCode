@@ -8,8 +8,8 @@
 #include <iostream>
 using namespace std;
 
-//function to return 
-void print (int size_array, string a[])
+//function to return
+void print(int size_array, string a[])
 {
     for (int i = 0; i < size_array; i++)
     {
@@ -18,7 +18,7 @@ void print (int size_array, string a[])
 }
 
 //functon to take input
-void in (int size_a, string a[])
+void in(int size_a, string a[])
 {
     for (int i = 0; i < size_a; i++)
     {
