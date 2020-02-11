@@ -1,4 +1,7 @@
 // !TODO: craete a function which pass no parameters
+// * Highlights
+// ? Something
+
 
 #include <stdio.h> 
 
