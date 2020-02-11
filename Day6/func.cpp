@@ -1,3 +1,5 @@
+// !TODO: craete a function which pass no parameters
+
 #include <stdio.h> 
 
 // An example function that takes two parameters 'x' and 'y' 
