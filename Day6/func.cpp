@@ -1,4 +1,4 @@
-// !TODO: craete a function which pass no parameters
+// !TODO: craete a fun which pass no parameters;
 // * Highlights
 // ? Something
 
